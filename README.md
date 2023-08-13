@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farhansami01
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C programming language
+- 🌱 I’m currently learning cs50
 - 💞️ I’m looking to collaborate on topics and projects related to any programming language
 - 📫 How to reach me by searching my username farhansami01 and saying Hi!
 
