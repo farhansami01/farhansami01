@@ -2,6 +2,7 @@
 
 **Bachelor of Computer Applications student at Shambhunath College of Education**  
 **React Frontend Developer Intern at WebDzen Technologies**  
+**Google Student Ambassador**
 **Chief of Staffs at The Entrepreneurship Network (TEN)**
 
 ---
